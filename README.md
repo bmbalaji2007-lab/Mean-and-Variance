@@ -47,11 +47,11 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 ![image](https://user-images.githubusercontent.com/103921593/229993174-5b67e57e-3e01-4ac4-9f83-410a932b22bf.png)
 
-# Program :
 ## NAME : B M Balaji
 ## Register no: 212225230029
 ## slot name : T1-N4
-## Date : 29.02.2026
+## Date : 29.01.2026
+# Program :
 ```py
 import numpy as np
 data=[int(i) for i in input("Enter Arrival data :").split()]
